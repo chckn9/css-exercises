@@ -1,0 +1,16 @@
+.mono {
+  background-color: black;
+  color: #ffffff;
+}
+
+.yellow_back {
+  background-color: hwb(56 22% 0%);
+}
+
+.mono,
+.yellow_back {
+  font-size: 28px;
+  font-family: "Helvetica",
+               "Times New Roman",
+               sans-serif;
+}
